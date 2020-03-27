@@ -1,8 +1,7 @@
-# hello-world
-My first Git-Hub repository
+# Translator function for AWS Cloud9
+------------------------------------
 
-this is my first readme.md file
--------------------------------
-i'm new to thist type of stuff, and not used to wroking like this.
-so i find all of these pretty tedious and time-consuming
-CHANGE MY MIND
+### Built using the Click command-line tool library and boto3 that translates text from automatically selected languages back to English.
+This uses the built-in AWS Comprehend natural language processing libraries.
+
+*Find more content [here](https://noahgift.com)
