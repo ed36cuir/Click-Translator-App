@@ -13,6 +13,6 @@ pip install ipython
 pip install boto3
 pip install click
 ```
-
+Run it by calling the function and follow instructions
 
 *Find more content [here](https://noahgift.com)
